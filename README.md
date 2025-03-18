@@ -3,6 +3,8 @@
 ## Overview
 This is a **Task Management Web App** built using **Next.js** and **TypeScript**. The app allows users to manage tasks efficiently by providing functionalities such as task listing, searching, adding, editing, sorting, filtering, and deleting tasks.
 
+![image](https://github.com/user-attachments/assets/111ed2fa-3832-4cee-9a59-2ce880c51326)
+
 ## Features
 
 ### 📋 List Tasks in a Table
@@ -17,6 +19,9 @@ This is a **Task Management Web App** built using **Next.js** and **TypeScript**
 - Users can add a new task via a **modal/popup**.
 - Fields include **Task Name, Description, Due Date, Priority (High, Medium, Low), and Status (In Progress, Completed)**.
 - The new task is immediately displayed in the task table.
+
+- ![image](https://github.com/user-attachments/assets/ae047f89-6bd1-4c4e-89f4-f167468e30f4)
+
 
 ### ✏️ Edit an Existing Task
 - Users can edit an existing task via a **modal/popup**.
@@ -34,6 +39,10 @@ This is a **Task Management Web App** built using **Next.js** and **TypeScript**
 
 ### 🌟 State Management
 - Uses **React's Context API** to manage and store task states instead of prop drilling.
+
+- ![image](https://github.com/user-attachments/assets/72d9805c-ce10-4e14-9b87-204919ee381d)
+- ![image](https://github.com/user-attachments/assets/78bc63db-5c62-4acf-8a6d-301e145714ff)
+
 
 ---
 
