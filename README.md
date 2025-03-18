@@ -41,7 +41,7 @@ This is a **Task Management Web App** built using **Next.js** and **TypeScript**
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/task-management-app.git
+git clone https://github.com/DhakshinaMoorthi-Techee/Task-Management.git
 cd task-management-app
 ```
 
@@ -79,15 +79,6 @@ npm run build
 - **TypeScript** - Ensures type safety and better maintainability
 - **React Context API** - State management solution
 - **CSS Modules / Tailwind CSS** - Styling the UI
-
----
-
-## 🎨 UI/UX Design
-The design reference can be found here: [Adobe XD Design](https://xd.adobe.com/view/da5258f4-f12a-4822-8f55-f1841382762b-8f01/specs/)
-
-> **Note:** A login page has been added with the same design style inferred from the overall UI.
-
----
 
 ## 📌 Notes
 - AI tools were used to **enhance the code structure and improve efficiency**.
