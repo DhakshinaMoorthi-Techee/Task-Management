@@ -65,7 +65,7 @@ The app will be available at: **[http://localhost:3000](http://localhost:3000)**
 
 ## 🔗 Deployment
 You can view the live demo of the app here:
-[Live Demo Link](#) *(Replace with actual link)*
+**[Live Demo Link](https://task-management-dhakshinamoorthi-techees-projects.vercel.app/)**
 
 To build the production-ready version, run:
 ```bash
@@ -92,5 +92,5 @@ Feel free to fork this repository and submit a pull request if you have any impr
 ---
 
 ## 📧 Contact
-For any queries, reach out at: [your-email@example.com](mailto:dhakshinamoorthi.be@gmail.com)
+For any queries, reach out at: [dhakshinamoorthi.be@gmail.com](mailto:dhakshinamoorthi.be@gmail.com)
 
